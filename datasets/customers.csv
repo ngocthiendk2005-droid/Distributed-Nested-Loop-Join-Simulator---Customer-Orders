@@ -1,0 +1,1001 @@
+CustomerID,Name,City,Region
+C0001,Customer 1,Hanoi,North
+C0002,Customer 2,Can Tho,South
+C0003,Customer 3,Quang Ngai,East
+C0004,Customer 4,Da Lat,West
+C0005,Customer 5,Quy Nhon,Central
+C0006,Customer 6,Nam Dinh,North
+C0007,Customer 7,Ho Chi Minh City,South
+C0008,Customer 8,Hue,East
+C0009,Customer 9,Buon Ma Thuot,West
+C0010,Customer 10,Nha Trang,Central
+C0011,Customer 11,Haiphong,North
+C0012,Customer 12,Vung Tau,South
+C0013,Customer 13,Da Nang,East
+C0014,Customer 14,Pleiku,West
+C0015,Customer 15,Tuy Hoa,Central
+C0016,Customer 16,Hanoi,North
+C0017,Customer 17,Can Tho,South
+C0018,Customer 18,Quang Ngai,East
+C0019,Customer 19,Da Lat,West
+C0020,Customer 20,Quy Nhon,Central
+C0021,Customer 21,Nam Dinh,North
+C0022,Customer 22,Ho Chi Minh City,South
+C0023,Customer 23,Hue,East
+C0024,Customer 24,Buon Ma Thuot,West
+C0025,Customer 25,Nha Trang,Central
+C0026,Customer 26,Haiphong,North
+C0027,Customer 27,Vung Tau,South
+C0028,Customer 28,Da Nang,East
+C0029,Customer 29,Pleiku,West
+C0030,Customer 30,Tuy Hoa,Central
+C0031,Customer 31,Hanoi,North
+C0032,Customer 32,Can Tho,South
+C0033,Customer 33,Quang Ngai,East
+C0034,Customer 34,Da Lat,West
+C0035,Customer 35,Quy Nhon,Central
+C0036,Customer 36,Nam Dinh,North
+C0037,Customer 37,Ho Chi Minh City,South
+C0038,Customer 38,Hue,East
+C0039,Customer 39,Buon Ma Thuot,West
+C0040,Customer 40,Nha Trang,Central
+C0041,Customer 41,Haiphong,North
+C0042,Customer 42,Vung Tau,South
+C0043,Customer 43,Da Nang,East
+C0044,Customer 44,Pleiku,West
+C0045,Customer 45,Tuy Hoa,Central
+C0046,Customer 46,Hanoi,North
+C0047,Customer 47,Can Tho,South
+C0048,Customer 48,Quang Ngai,East
+C0049,Customer 49,Da Lat,West
+C0050,Customer 50,Quy Nhon,Central
+C0051,Customer 51,Nam Dinh,North
+C0052,Customer 52,Ho Chi Minh City,South
+C0053,Customer 53,Hue,East
+C0054,Customer 54,Buon Ma Thuot,West
+C0055,Customer 55,Nha Trang,Central
+C0056,Customer 56,Haiphong,North
+C0057,Customer 57,Vung Tau,South
+C0058,Customer 58,Da Nang,East
+C0059,Customer 59,Pleiku,West
+C0060,Customer 60,Tuy Hoa,Central
+C0061,Customer 61,Hanoi,North
+C0062,Customer 62,Can Tho,South
+C0063,Customer 63,Quang Ngai,East
+C0064,Customer 64,Da Lat,West
+C0065,Customer 65,Quy Nhon,Central
+C0066,Customer 66,Nam Dinh,North
+C0067,Customer 67,Ho Chi Minh City,South
+C0068,Customer 68,Hue,East
+C0069,Customer 69,Buon Ma Thuot,West
+C0070,Customer 70,Nha Trang,Central
+C0071,Customer 71,Haiphong,North
+C0072,Customer 72,Vung Tau,South
+C0073,Customer 73,Da Nang,East
+C0074,Customer 74,Pleiku,West
+C0075,Customer 75,Tuy Hoa,Central
+C0076,Customer 76,Hanoi,North
+C0077,Customer 77,Can Tho,South
+C0078,Customer 78,Quang Ngai,East
+C0079,Customer 79,Da Lat,West
+C0080,Customer 80,Quy Nhon,Central
+C0081,Customer 81,Nam Dinh,North
+C0082,Customer 82,Ho Chi Minh City,South
+C0083,Customer 83,Hue,East
+C0084,Customer 84,Buon Ma Thuot,West
+C0085,Customer 85,Nha Trang,Central
+C0086,Customer 86,Haiphong,North
+C0087,Customer 87,Vung Tau,South
+C0088,Customer 88,Da Nang,East
+C0089,Customer 89,Pleiku,West
+C0090,Customer 90,Tuy Hoa,Central
+C0091,Customer 91,Hanoi,North
+C0092,Customer 92,Can Tho,South
+C0093,Customer 93,Quang Ngai,East
+C0094,Customer 94,Da Lat,West
+C0095,Customer 95,Quy Nhon,Central
+C0096,Customer 96,Nam Dinh,North
+C0097,Customer 97,Ho Chi Minh City,South
+C0098,Customer 98,Hue,East
+C0099,Customer 99,Buon Ma Thuot,West
+C0100,Customer 100,Nha Trang,Central
+C0101,Customer 101,Haiphong,North
+C0102,Customer 102,Vung Tau,South
+C0103,Customer 103,Da Nang,East
+C0104,Customer 104,Pleiku,West
+C0105,Customer 105,Tuy Hoa,Central
+C0106,Customer 106,Hanoi,North
+C0107,Customer 107,Can Tho,South
+C0108,Customer 108,Quang Ngai,East
+C0109,Customer 109,Da Lat,West
+C0110,Customer 110,Quy Nhon,Central
+C0111,Customer 111,Nam Dinh,North
+C0112,Customer 112,Ho Chi Minh City,South
+C0113,Customer 113,Hue,East
+C0114,Customer 114,Buon Ma Thuot,West
+C0115,Customer 115,Nha Trang,Central
+C0116,Customer 116,Haiphong,North
+C0117,Customer 117,Vung Tau,South
+C0118,Customer 118,Da Nang,East
+C0119,Customer 119,Pleiku,West
+C0120,Customer 120,Tuy Hoa,Central
+C0121,Customer 121,Hanoi,North
+C0122,Customer 122,Can Tho,South
+C0123,Customer 123,Quang Ngai,East
+C0124,Customer 124,Da Lat,West
+C0125,Customer 125,Quy Nhon,Central
+C0126,Customer 126,Nam Dinh,North
+C0127,Customer 127,Ho Chi Minh City,South
+C0128,Customer 128,Hue,East
+C0129,Customer 129,Buon Ma Thuot,West
+C0130,Customer 130,Nha Trang,Central
+C0131,Customer 131,Haiphong,North
+C0132,Customer 132,Vung Tau,South
+C0133,Customer 133,Da Nang,East
+C0134,Customer 134,Pleiku,West
+C0135,Customer 135,Tuy Hoa,Central
+C0136,Customer 136,Hanoi,North
+C0137,Customer 137,Can Tho,South
+C0138,Customer 138,Quang Ngai,East
+C0139,Customer 139,Da Lat,West
+C0140,Customer 140,Quy Nhon,Central
+C0141,Customer 141,Nam Dinh,North
+C0142,Customer 142,Ho Chi Minh City,South
+C0143,Customer 143,Hue,East
+C0144,Customer 144,Buon Ma Thuot,West
+C0145,Customer 145,Nha Trang,Central
+C0146,Customer 146,Haiphong,North
+C0147,Customer 147,Vung Tau,South
+C0148,Customer 148,Da Nang,East
+C0149,Customer 149,Pleiku,West
+C0150,Customer 150,Tuy Hoa,Central
+C0151,Customer 151,Hanoi,North
+C0152,Customer 152,Can Tho,South
+C0153,Customer 153,Quang Ngai,East
+C0154,Customer 154,Da Lat,West
+C0155,Customer 155,Quy Nhon,Central
+C0156,Customer 156,Nam Dinh,North
+C0157,Customer 157,Ho Chi Minh City,South
+C0158,Customer 158,Hue,East
+C0159,Customer 159,Buon Ma Thuot,West
+C0160,Customer 160,Nha Trang,Central
+C0161,Customer 161,Haiphong,North
+C0162,Customer 162,Vung Tau,South
+C0163,Customer 163,Da Nang,East
+C0164,Customer 164,Pleiku,West
+C0165,Customer 165,Tuy Hoa,Central
+C0166,Customer 166,Hanoi,North
+C0167,Customer 167,Can Tho,South
+C0168,Customer 168,Quang Ngai,East
+C0169,Customer 169,Da Lat,West
+C0170,Customer 170,Quy Nhon,Central
+C0171,Customer 171,Nam Dinh,North
+C0172,Customer 172,Ho Chi Minh City,South
+C0173,Customer 173,Hue,East
+C0174,Customer 174,Buon Ma Thuot,West
+C0175,Customer 175,Nha Trang,Central
+C0176,Customer 176,Haiphong,North
+C0177,Customer 177,Vung Tau,South
+C0178,Customer 178,Da Nang,East
+C0179,Customer 179,Pleiku,West
+C0180,Customer 180,Tuy Hoa,Central
+C0181,Customer 181,Hanoi,North
+C0182,Customer 182,Can Tho,South
+C0183,Customer 183,Quang Ngai,East
+C0184,Customer 184,Da Lat,West
+C0185,Customer 185,Quy Nhon,Central
+C0186,Customer 186,Nam Dinh,North
+C0187,Customer 187,Ho Chi Minh City,South
+C0188,Customer 188,Hue,East
+C0189,Customer 189,Buon Ma Thuot,West
+C0190,Customer 190,Nha Trang,Central
+C0191,Customer 191,Haiphong,North
+C0192,Customer 192,Vung Tau,South
+C0193,Customer 193,Da Nang,East
+C0194,Customer 194,Pleiku,West
+C0195,Customer 195,Tuy Hoa,Central
+C0196,Customer 196,Hanoi,North
+C0197,Customer 197,Can Tho,South
+C0198,Customer 198,Quang Ngai,East
+C0199,Customer 199,Da Lat,West
+C0200,Customer 200,Quy Nhon,Central
+C0201,Customer 201,Nam Dinh,North
+C0202,Customer 202,Ho Chi Minh City,South
+C0203,Customer 203,Hue,East
+C0204,Customer 204,Buon Ma Thuot,West
+C0205,Customer 205,Nha Trang,Central
+C0206,Customer 206,Haiphong,North
+C0207,Customer 207,Vung Tau,South
+C0208,Customer 208,Da Nang,East
+C0209,Customer 209,Pleiku,West
+C0210,Customer 210,Tuy Hoa,Central
+C0211,Customer 211,Hanoi,North
+C0212,Customer 212,Can Tho,South
+C0213,Customer 213,Quang Ngai,East
+C0214,Customer 214,Da Lat,West
+C0215,Customer 215,Quy Nhon,Central
+C0216,Customer 216,Nam Dinh,North
+C0217,Customer 217,Ho Chi Minh City,South
+C0218,Customer 218,Hue,East
+C0219,Customer 219,Buon Ma Thuot,West
+C0220,Customer 220,Nha Trang,Central
+C0221,Customer 221,Haiphong,North
+C0222,Customer 222,Vung Tau,South
+C0223,Customer 223,Da Nang,East
+C0224,Customer 224,Pleiku,West
+C0225,Customer 225,Tuy Hoa,Central
+C0226,Customer 226,Hanoi,North
+C0227,Customer 227,Can Tho,South
+C0228,Customer 228,Quang Ngai,East
+C0229,Customer 229,Da Lat,West
+C0230,Customer 230,Quy Nhon,Central
+C0231,Customer 231,Nam Dinh,North
+C0232,Customer 232,Ho Chi Minh City,South
+C0233,Customer 233,Hue,East
+C0234,Customer 234,Buon Ma Thuot,West
+C0235,Customer 235,Nha Trang,Central
+C0236,Customer 236,Haiphong,North
+C0237,Customer 237,Vung Tau,South
+C0238,Customer 238,Da Nang,East
+C0239,Customer 239,Pleiku,West
+C0240,Customer 240,Tuy Hoa,Central
+C0241,Customer 241,Hanoi,North
+C0242,Customer 242,Can Tho,South
+C0243,Customer 243,Quang Ngai,East
+C0244,Customer 244,Da Lat,West
+C0245,Customer 245,Quy Nhon,Central
+C0246,Customer 246,Nam Dinh,North
+C0247,Customer 247,Ho Chi Minh City,South
+C0248,Customer 248,Hue,East
+C0249,Customer 249,Buon Ma Thuot,West
+C0250,Customer 250,Nha Trang,Central
+C0251,Customer 251,Haiphong,North
+C0252,Customer 252,Vung Tau,South
+C0253,Customer 253,Da Nang,East
+C0254,Customer 254,Pleiku,West
+C0255,Customer 255,Tuy Hoa,Central
+C0256,Customer 256,Hanoi,North
+C0257,Customer 257,Can Tho,South
+C0258,Customer 258,Quang Ngai,East
+C0259,Customer 259,Da Lat,West
+C0260,Customer 260,Quy Nhon,Central
+C0261,Customer 261,Nam Dinh,North
+C0262,Customer 262,Ho Chi Minh City,South
+C0263,Customer 263,Hue,East
+C0264,Customer 264,Buon Ma Thuot,West
+C0265,Customer 265,Nha Trang,Central
+C0266,Customer 266,Haiphong,North
+C0267,Customer 267,Vung Tau,South
+C0268,Customer 268,Da Nang,East
+C0269,Customer 269,Pleiku,West
+C0270,Customer 270,Tuy Hoa,Central
+C0271,Customer 271,Hanoi,North
+C0272,Customer 272,Can Tho,South
+C0273,Customer 273,Quang Ngai,East
+C0274,Customer 274,Da Lat,West
+C0275,Customer 275,Quy Nhon,Central
+C0276,Customer 276,Nam Dinh,North
+C0277,Customer 277,Ho Chi Minh City,South
+C0278,Customer 278,Hue,East
+C0279,Customer 279,Buon Ma Thuot,West
+C0280,Customer 280,Nha Trang,Central
+C0281,Customer 281,Haiphong,North
+C0282,Customer 282,Vung Tau,South
+C0283,Customer 283,Da Nang,East
+C0284,Customer 284,Pleiku,West
+C0285,Customer 285,Tuy Hoa,Central
+C0286,Customer 286,Hanoi,North
+C0287,Customer 287,Can Tho,South
+C0288,Customer 288,Quang Ngai,East
+C0289,Customer 289,Da Lat,West
+C0290,Customer 290,Quy Nhon,Central
+C0291,Customer 291,Nam Dinh,North
+C0292,Customer 292,Ho Chi Minh City,South
+C0293,Customer 293,Hue,East
+C0294,Customer 294,Buon Ma Thuot,West
+C0295,Customer 295,Nha Trang,Central
+C0296,Customer 296,Haiphong,North
+C0297,Customer 297,Vung Tau,South
+C0298,Customer 298,Da Nang,East
+C0299,Customer 299,Pleiku,West
+C0300,Customer 300,Tuy Hoa,Central
+C0301,Customer 301,Hanoi,North
+C0302,Customer 302,Can Tho,South
+C0303,Customer 303,Quang Ngai,East
+C0304,Customer 304,Da Lat,West
+C0305,Customer 305,Quy Nhon,Central
+C0306,Customer 306,Nam Dinh,North
+C0307,Customer 307,Ho Chi Minh City,South
+C0308,Customer 308,Hue,East
+C0309,Customer 309,Buon Ma Thuot,West
+C0310,Customer 310,Nha Trang,Central
+C0311,Customer 311,Haiphong,North
+C0312,Customer 312,Vung Tau,South
+C0313,Customer 313,Da Nang,East
+C0314,Customer 314,Pleiku,West
+C0315,Customer 315,Tuy Hoa,Central
+C0316,Customer 316,Hanoi,North
+C0317,Customer 317,Can Tho,South
+C0318,Customer 318,Quang Ngai,East
+C0319,Customer 319,Da Lat,West
+C0320,Customer 320,Quy Nhon,Central
+C0321,Customer 321,Nam Dinh,North
+C0322,Customer 322,Ho Chi Minh City,South
+C0323,Customer 323,Hue,East
+C0324,Customer 324,Buon Ma Thuot,West
+C0325,Customer 325,Nha Trang,Central
+C0326,Customer 326,Haiphong,North
+C0327,Customer 327,Vung Tau,South
+C0328,Customer 328,Da Nang,East
+C0329,Customer 329,Pleiku,West
+C0330,Customer 330,Tuy Hoa,Central
+C0331,Customer 331,Hanoi,North
+C0332,Customer 332,Can Tho,South
+C0333,Customer 333,Quang Ngai,East
+C0334,Customer 334,Da Lat,West
+C0335,Customer 335,Quy Nhon,Central
+C0336,Customer 336,Nam Dinh,North
+C0337,Customer 337,Ho Chi Minh City,South
+C0338,Customer 338,Hue,East
+C0339,Customer 339,Buon Ma Thuot,West
+C0340,Customer 340,Nha Trang,Central
+C0341,Customer 341,Haiphong,North
+C0342,Customer 342,Vung Tau,South
+C0343,Customer 343,Da Nang,East
+C0344,Customer 344,Pleiku,West
+C0345,Customer 345,Tuy Hoa,Central
+C0346,Customer 346,Hanoi,North
+C0347,Customer 347,Can Tho,South
+C0348,Customer 348,Quang Ngai,East
+C0349,Customer 349,Da Lat,West
+C0350,Customer 350,Quy Nhon,Central
+C0351,Customer 351,Nam Dinh,North
+C0352,Customer 352,Ho Chi Minh City,South
+C0353,Customer 353,Hue,East
+C0354,Customer 354,Buon Ma Thuot,West
+C0355,Customer 355,Nha Trang,Central
+C0356,Customer 356,Haiphong,North
+C0357,Customer 357,Vung Tau,South
+C0358,Customer 358,Da Nang,East
+C0359,Customer 359,Pleiku,West
+C0360,Customer 360,Tuy Hoa,Central
+C0361,Customer 361,Hanoi,North
+C0362,Customer 362,Can Tho,South
+C0363,Customer 363,Quang Ngai,East
+C0364,Customer 364,Da Lat,West
+C0365,Customer 365,Quy Nhon,Central
+C0366,Customer 366,Nam Dinh,North
+C0367,Customer 367,Ho Chi Minh City,South
+C0368,Customer 368,Hue,East
+C0369,Customer 369,Buon Ma Thuot,West
+C0370,Customer 370,Nha Trang,Central
+C0371,Customer 371,Haiphong,North
+C0372,Customer 372,Vung Tau,South
+C0373,Customer 373,Da Nang,East
+C0374,Customer 374,Pleiku,West
+C0375,Customer 375,Tuy Hoa,Central
+C0376,Customer 376,Hanoi,North
+C0377,Customer 377,Can Tho,South
+C0378,Customer 378,Quang Ngai,East
+C0379,Customer 379,Da Lat,West
+C0380,Customer 380,Quy Nhon,Central
+C0381,Customer 381,Nam Dinh,North
+C0382,Customer 382,Ho Chi Minh City,South
+C0383,Customer 383,Hue,East
+C0384,Customer 384,Buon Ma Thuot,West
+C0385,Customer 385,Nha Trang,Central
+C0386,Customer 386,Haiphong,North
+C0387,Customer 387,Vung Tau,South
+C0388,Customer 388,Da Nang,East
+C0389,Customer 389,Pleiku,West
+C0390,Customer 390,Tuy Hoa,Central
+C0391,Customer 391,Hanoi,North
+C0392,Customer 392,Can Tho,South
+C0393,Customer 393,Quang Ngai,East
+C0394,Customer 394,Da Lat,West
+C0395,Customer 395,Quy Nhon,Central
+C0396,Customer 396,Nam Dinh,North
+C0397,Customer 397,Ho Chi Minh City,South
+C0398,Customer 398,Hue,East
+C0399,Customer 399,Buon Ma Thuot,West
+C0400,Customer 400,Nha Trang,Central
+C0401,Customer 401,Haiphong,North
+C0402,Customer 402,Vung Tau,South
+C0403,Customer 403,Da Nang,East
+C0404,Customer 404,Pleiku,West
+C0405,Customer 405,Tuy Hoa,Central
+C0406,Customer 406,Hanoi,North
+C0407,Customer 407,Can Tho,South
+C0408,Customer 408,Quang Ngai,East
+C0409,Customer 409,Da Lat,West
+C0410,Customer 410,Quy Nhon,Central
+C0411,Customer 411,Nam Dinh,North
+C0412,Customer 412,Ho Chi Minh City,South
+C0413,Customer 413,Hue,East
+C0414,Customer 414,Buon Ma Thuot,West
+C0415,Customer 415,Nha Trang,Central
+C0416,Customer 416,Haiphong,North
+C0417,Customer 417,Vung Tau,South
+C0418,Customer 418,Da Nang,East
+C0419,Customer 419,Pleiku,West
+C0420,Customer 420,Tuy Hoa,Central
+C0421,Customer 421,Hanoi,North
+C0422,Customer 422,Can Tho,South
+C0423,Customer 423,Quang Ngai,East
+C0424,Customer 424,Da Lat,West
+C0425,Customer 425,Quy Nhon,Central
+C0426,Customer 426,Nam Dinh,North
+C0427,Customer 427,Ho Chi Minh City,South
+C0428,Customer 428,Hue,East
+C0429,Customer 429,Buon Ma Thuot,West
+C0430,Customer 430,Nha Trang,Central
+C0431,Customer 431,Haiphong,North
+C0432,Customer 432,Vung Tau,South
+C0433,Customer 433,Da Nang,East
+C0434,Customer 434,Pleiku,West
+C0435,Customer 435,Tuy Hoa,Central
+C0436,Customer 436,Hanoi,North
+C0437,Customer 437,Can Tho,South
+C0438,Customer 438,Quang Ngai,East
+C0439,Customer 439,Da Lat,West
+C0440,Customer 440,Quy Nhon,Central
+C0441,Customer 441,Nam Dinh,North
+C0442,Customer 442,Ho Chi Minh City,South
+C0443,Customer 443,Hue,East
+C0444,Customer 444,Buon Ma Thuot,West
+C0445,Customer 445,Nha Trang,Central
+C0446,Customer 446,Haiphong,North
+C0447,Customer 447,Vung Tau,South
+C0448,Customer 448,Da Nang,East
+C0449,Customer 449,Pleiku,West
+C0450,Customer 450,Tuy Hoa,Central
+C0451,Customer 451,Hanoi,North
+C0452,Customer 452,Can Tho,South
+C0453,Customer 453,Quang Ngai,East
+C0454,Customer 454,Da Lat,West
+C0455,Customer 455,Quy Nhon,Central
+C0456,Customer 456,Nam Dinh,North
+C0457,Customer 457,Ho Chi Minh City,South
+C0458,Customer 458,Hue,East
+C0459,Customer 459,Buon Ma Thuot,West
+C0460,Customer 460,Nha Trang,Central
+C0461,Customer 461,Haiphong,North
+C0462,Customer 462,Vung Tau,South
+C0463,Customer 463,Da Nang,East
+C0464,Customer 464,Pleiku,West
+C0465,Customer 465,Tuy Hoa,Central
+C0466,Customer 466,Hanoi,North
+C0467,Customer 467,Can Tho,South
+C0468,Customer 468,Quang Ngai,East
+C0469,Customer 469,Da Lat,West
+C0470,Customer 470,Quy Nhon,Central
+C0471,Customer 471,Nam Dinh,North
+C0472,Customer 472,Ho Chi Minh City,South
+C0473,Customer 473,Hue,East
+C0474,Customer 474,Buon Ma Thuot,West
+C0475,Customer 475,Nha Trang,Central
+C0476,Customer 476,Haiphong,North
+C0477,Customer 477,Vung Tau,South
+C0478,Customer 478,Da Nang,East
+C0479,Customer 479,Pleiku,West
+C0480,Customer 480,Tuy Hoa,Central
+C0481,Customer 481,Hanoi,North
+C0482,Customer 482,Can Tho,South
+C0483,Customer 483,Quang Ngai,East
+C0484,Customer 484,Da Lat,West
+C0485,Customer 485,Quy Nhon,Central
+C0486,Customer 486,Nam Dinh,North
+C0487,Customer 487,Ho Chi Minh City,South
+C0488,Customer 488,Hue,East
+C0489,Customer 489,Buon Ma Thuot,West
+C0490,Customer 490,Nha Trang,Central
+C0491,Customer 491,Haiphong,North
+C0492,Customer 492,Vung Tau,South
+C0493,Customer 493,Da Nang,East
+C0494,Customer 494,Pleiku,West
+C0495,Customer 495,Tuy Hoa,Central
+C0496,Customer 496,Hanoi,North
+C0497,Customer 497,Can Tho,South
+C0498,Customer 498,Quang Ngai,East
+C0499,Customer 499,Da Lat,West
+C0500,Customer 500,Quy Nhon,Central
+C0501,Customer 501,Nam Dinh,North
+C0502,Customer 502,Ho Chi Minh City,South
+C0503,Customer 503,Hue,East
+C0504,Customer 504,Buon Ma Thuot,West
+C0505,Customer 505,Nha Trang,Central
+C0506,Customer 506,Haiphong,North
+C0507,Customer 507,Vung Tau,South
+C0508,Customer 508,Da Nang,East
+C0509,Customer 509,Pleiku,West
+C0510,Customer 510,Tuy Hoa,Central
+C0511,Customer 511,Hanoi,North
+C0512,Customer 512,Can Tho,South
+C0513,Customer 513,Quang Ngai,East
+C0514,Customer 514,Da Lat,West
+C0515,Customer 515,Quy Nhon,Central
+C0516,Customer 516,Nam Dinh,North
+C0517,Customer 517,Ho Chi Minh City,South
+C0518,Customer 518,Hue,East
+C0519,Customer 519,Buon Ma Thuot,West
+C0520,Customer 520,Nha Trang,Central
+C0521,Customer 521,Haiphong,North
+C0522,Customer 522,Vung Tau,South
+C0523,Customer 523,Da Nang,East
+C0524,Customer 524,Pleiku,West
+C0525,Customer 525,Tuy Hoa,Central
+C0526,Customer 526,Hanoi,North
+C0527,Customer 527,Can Tho,South
+C0528,Customer 528,Quang Ngai,East
+C0529,Customer 529,Da Lat,West
+C0530,Customer 530,Quy Nhon,Central
+C0531,Customer 531,Nam Dinh,North
+C0532,Customer 532,Ho Chi Minh City,South
+C0533,Customer 533,Hue,East
+C0534,Customer 534,Buon Ma Thuot,West
+C0535,Customer 535,Nha Trang,Central
+C0536,Customer 536,Haiphong,North
+C0537,Customer 537,Vung Tau,South
+C0538,Customer 538,Da Nang,East
+C0539,Customer 539,Pleiku,West
+C0540,Customer 540,Tuy Hoa,Central
+C0541,Customer 541,Hanoi,North
+C0542,Customer 542,Can Tho,South
+C0543,Customer 543,Quang Ngai,East
+C0544,Customer 544,Da Lat,West
+C0545,Customer 545,Quy Nhon,Central
+C0546,Customer 546,Nam Dinh,North
+C0547,Customer 547,Ho Chi Minh City,South
+C0548,Customer 548,Hue,East
+C0549,Customer 549,Buon Ma Thuot,West
+C0550,Customer 550,Nha Trang,Central
+C0551,Customer 551,Haiphong,North
+C0552,Customer 552,Vung Tau,South
+C0553,Customer 553,Da Nang,East
+C0554,Customer 554,Pleiku,West
+C0555,Customer 555,Tuy Hoa,Central
+C0556,Customer 556,Hanoi,North
+C0557,Customer 557,Can Tho,South
+C0558,Customer 558,Quang Ngai,East
+C0559,Customer 559,Da Lat,West
+C0560,Customer 560,Quy Nhon,Central
+C0561,Customer 561,Nam Dinh,North
+C0562,Customer 562,Ho Chi Minh City,South
+C0563,Customer 563,Hue,East
+C0564,Customer 564,Buon Ma Thuot,West
+C0565,Customer 565,Nha Trang,Central
+C0566,Customer 566,Haiphong,North
+C0567,Customer 567,Vung Tau,South
+C0568,Customer 568,Da Nang,East
+C0569,Customer 569,Pleiku,West
+C0570,Customer 570,Tuy Hoa,Central
+C0571,Customer 571,Hanoi,North
+C0572,Customer 572,Can Tho,South
+C0573,Customer 573,Quang Ngai,East
+C0574,Customer 574,Da Lat,West
+C0575,Customer 575,Quy Nhon,Central
+C0576,Customer 576,Nam Dinh,North
+C0577,Customer 577,Ho Chi Minh City,South
+C0578,Customer 578,Hue,East
+C0579,Customer 579,Buon Ma Thuot,West
+C0580,Customer 580,Nha Trang,Central
+C0581,Customer 581,Haiphong,North
+C0582,Customer 582,Vung Tau,South
+C0583,Customer 583,Da Nang,East
+C0584,Customer 584,Pleiku,West
+C0585,Customer 585,Tuy Hoa,Central
+C0586,Customer 586,Hanoi,North
+C0587,Customer 587,Can Tho,South
+C0588,Customer 588,Quang Ngai,East
+C0589,Customer 589,Da Lat,West
+C0590,Customer 590,Quy Nhon,Central
+C0591,Customer 591,Nam Dinh,North
+C0592,Customer 592,Ho Chi Minh City,South
+C0593,Customer 593,Hue,East
+C0594,Customer 594,Buon Ma Thuot,West
+C0595,Customer 595,Nha Trang,Central
+C0596,Customer 596,Haiphong,North
+C0597,Customer 597,Vung Tau,South
+C0598,Customer 598,Da Nang,East
+C0599,Customer 599,Pleiku,West
+C0600,Customer 600,Tuy Hoa,Central
+C0601,Customer 601,Hanoi,North
+C0602,Customer 602,Can Tho,South
+C0603,Customer 603,Quang Ngai,East
+C0604,Customer 604,Da Lat,West
+C0605,Customer 605,Quy Nhon,Central
+C0606,Customer 606,Nam Dinh,North
+C0607,Customer 607,Ho Chi Minh City,South
+C0608,Customer 608,Hue,East
+C0609,Customer 609,Buon Ma Thuot,West
+C0610,Customer 610,Nha Trang,Central
+C0611,Customer 611,Haiphong,North
+C0612,Customer 612,Vung Tau,South
+C0613,Customer 613,Da Nang,East
+C0614,Customer 614,Pleiku,West
+C0615,Customer 615,Tuy Hoa,Central
+C0616,Customer 616,Hanoi,North
+C0617,Customer 617,Can Tho,South
+C0618,Customer 618,Quang Ngai,East
+C0619,Customer 619,Da Lat,West
+C0620,Customer 620,Quy Nhon,Central
+C0621,Customer 621,Nam Dinh,North
+C0622,Customer 622,Ho Chi Minh City,South
+C0623,Customer 623,Hue,East
+C0624,Customer 624,Buon Ma Thuot,West
+C0625,Customer 625,Nha Trang,Central
+C0626,Customer 626,Haiphong,North
+C0627,Customer 627,Vung Tau,South
+C0628,Customer 628,Da Nang,East
+C0629,Customer 629,Pleiku,West
+C0630,Customer 630,Tuy Hoa,Central
+C0631,Customer 631,Hanoi,North
+C0632,Customer 632,Can Tho,South
+C0633,Customer 633,Quang Ngai,East
+C0634,Customer 634,Da Lat,West
+C0635,Customer 635,Quy Nhon,Central
+C0636,Customer 636,Nam Dinh,North
+C0637,Customer 637,Ho Chi Minh City,South
+C0638,Customer 638,Hue,East
+C0639,Customer 639,Buon Ma Thuot,West
+C0640,Customer 640,Nha Trang,Central
+C0641,Customer 641,Haiphong,North
+C0642,Customer 642,Vung Tau,South
+C0643,Customer 643,Da Nang,East
+C0644,Customer 644,Pleiku,West
+C0645,Customer 645,Tuy Hoa,Central
+C0646,Customer 646,Hanoi,North
+C0647,Customer 647,Can Tho,South
+C0648,Customer 648,Quang Ngai,East
+C0649,Customer 649,Da Lat,West
+C0650,Customer 650,Quy Nhon,Central
+C0651,Customer 651,Nam Dinh,North
+C0652,Customer 652,Ho Chi Minh City,South
+C0653,Customer 653,Hue,East
+C0654,Customer 654,Buon Ma Thuot,West
+C0655,Customer 655,Nha Trang,Central
+C0656,Customer 656,Haiphong,North
+C0657,Customer 657,Vung Tau,South
+C0658,Customer 658,Da Nang,East
+C0659,Customer 659,Pleiku,West
+C0660,Customer 660,Tuy Hoa,Central
+C0661,Customer 661,Hanoi,North
+C0662,Customer 662,Can Tho,South
+C0663,Customer 663,Quang Ngai,East
+C0664,Customer 664,Da Lat,West
+C0665,Customer 665,Quy Nhon,Central
+C0666,Customer 666,Nam Dinh,North
+C0667,Customer 667,Ho Chi Minh City,South
+C0668,Customer 668,Hue,East
+C0669,Customer 669,Buon Ma Thuot,West
+C0670,Customer 670,Nha Trang,Central
+C0671,Customer 671,Haiphong,North
+C0672,Customer 672,Vung Tau,South
+C0673,Customer 673,Da Nang,East
+C0674,Customer 674,Pleiku,West
+C0675,Customer 675,Tuy Hoa,Central
+C0676,Customer 676,Hanoi,North
+C0677,Customer 677,Can Tho,South
+C0678,Customer 678,Quang Ngai,East
+C0679,Customer 679,Da Lat,West
+C0680,Customer 680,Quy Nhon,Central
+C0681,Customer 681,Nam Dinh,North
+C0682,Customer 682,Ho Chi Minh City,South
+C0683,Customer 683,Hue,East
+C0684,Customer 684,Buon Ma Thuot,West
+C0685,Customer 685,Nha Trang,Central
+C0686,Customer 686,Haiphong,North
+C0687,Customer 687,Vung Tau,South
+C0688,Customer 688,Da Nang,East
+C0689,Customer 689,Pleiku,West
+C0690,Customer 690,Tuy Hoa,Central
+C0691,Customer 691,Hanoi,North
+C0692,Customer 692,Can Tho,South
+C0693,Customer 693,Quang Ngai,East
+C0694,Customer 694,Da Lat,West
+C0695,Customer 695,Quy Nhon,Central
+C0696,Customer 696,Nam Dinh,North
+C0697,Customer 697,Ho Chi Minh City,South
+C0698,Customer 698,Hue,East
+C0699,Customer 699,Buon Ma Thuot,West
+C0700,Customer 700,Nha Trang,Central
+C0701,Customer 701,Haiphong,North
+C0702,Customer 702,Vung Tau,South
+C0703,Customer 703,Da Nang,East
+C0704,Customer 704,Pleiku,West
+C0705,Customer 705,Tuy Hoa,Central
+C0706,Customer 706,Hanoi,North
+C0707,Customer 707,Can Tho,South
+C0708,Customer 708,Quang Ngai,East
+C0709,Customer 709,Da Lat,West
+C0710,Customer 710,Quy Nhon,Central
+C0711,Customer 711,Nam Dinh,North
+C0712,Customer 712,Ho Chi Minh City,South
+C0713,Customer 713,Hue,East
+C0714,Customer 714,Buon Ma Thuot,West
+C0715,Customer 715,Nha Trang,Central
+C0716,Customer 716,Haiphong,North
+C0717,Customer 717,Vung Tau,South
+C0718,Customer 718,Da Nang,East
+C0719,Customer 719,Pleiku,West
+C0720,Customer 720,Tuy Hoa,Central
+C0721,Customer 721,Hanoi,North
+C0722,Customer 722,Can Tho,South
+C0723,Customer 723,Quang Ngai,East
+C0724,Customer 724,Da Lat,West
+C0725,Customer 725,Quy Nhon,Central
+C0726,Customer 726,Nam Dinh,North
+C0727,Customer 727,Ho Chi Minh City,South
+C0728,Customer 728,Hue,East
+C0729,Customer 729,Buon Ma Thuot,West
+C0730,Customer 730,Nha Trang,Central
+C0731,Customer 731,Haiphong,North
+C0732,Customer 732,Vung Tau,South
+C0733,Customer 733,Da Nang,East
+C0734,Customer 734,Pleiku,West
+C0735,Customer 735,Tuy Hoa,Central
+C0736,Customer 736,Hanoi,North
+C0737,Customer 737,Can Tho,South
+C0738,Customer 738,Quang Ngai,East
+C0739,Customer 739,Da Lat,West
+C0740,Customer 740,Quy Nhon,Central
+C0741,Customer 741,Nam Dinh,North
+C0742,Customer 742,Ho Chi Minh City,South
+C0743,Customer 743,Hue,East
+C0744,Customer 744,Buon Ma Thuot,West
+C0745,Customer 745,Nha Trang,Central
+C0746,Customer 746,Haiphong,North
+C0747,Customer 747,Vung Tau,South
+C0748,Customer 748,Da Nang,East
+C0749,Customer 749,Pleiku,West
+C0750,Customer 750,Tuy Hoa,Central
+C0751,Customer 751,Hanoi,North
+C0752,Customer 752,Can Tho,South
+C0753,Customer 753,Quang Ngai,East
+C0754,Customer 754,Da Lat,West
+C0755,Customer 755,Quy Nhon,Central
+C0756,Customer 756,Nam Dinh,North
+C0757,Customer 757,Ho Chi Minh City,South
+C0758,Customer 758,Hue,East
+C0759,Customer 759,Buon Ma Thuot,West
+C0760,Customer 760,Nha Trang,Central
+C0761,Customer 761,Haiphong,North
+C0762,Customer 762,Vung Tau,South
+C0763,Customer 763,Da Nang,East
+C0764,Customer 764,Pleiku,West
+C0765,Customer 765,Tuy Hoa,Central
+C0766,Customer 766,Hanoi,North
+C0767,Customer 767,Can Tho,South
+C0768,Customer 768,Quang Ngai,East
+C0769,Customer 769,Da Lat,West
+C0770,Customer 770,Quy Nhon,Central
+C0771,Customer 771,Nam Dinh,North
+C0772,Customer 772,Ho Chi Minh City,South
+C0773,Customer 773,Hue,East
+C0774,Customer 774,Buon Ma Thuot,West
+C0775,Customer 775,Nha Trang,Central
+C0776,Customer 776,Haiphong,North
+C0777,Customer 777,Vung Tau,South
+C0778,Customer 778,Da Nang,East
+C0779,Customer 779,Pleiku,West
+C0780,Customer 780,Tuy Hoa,Central
+C0781,Customer 781,Hanoi,North
+C0782,Customer 782,Can Tho,South
+C0783,Customer 783,Quang Ngai,East
+C0784,Customer 784,Da Lat,West
+C0785,Customer 785,Quy Nhon,Central
+C0786,Customer 786,Nam Dinh,North
+C0787,Customer 787,Ho Chi Minh City,South
+C0788,Customer 788,Hue,East
+C0789,Customer 789,Buon Ma Thuot,West
+C0790,Customer 790,Nha Trang,Central
+C0791,Customer 791,Haiphong,North
+C0792,Customer 792,Vung Tau,South
+C0793,Customer 793,Da Nang,East
+C0794,Customer 794,Pleiku,West
+C0795,Customer 795,Tuy Hoa,Central
+C0796,Customer 796,Hanoi,North
+C0797,Customer 797,Can Tho,South
+C0798,Customer 798,Quang Ngai,East
+C0799,Customer 799,Da Lat,West
+C0800,Customer 800,Quy Nhon,Central
+C0801,Customer 801,Nam Dinh,North
+C0802,Customer 802,Ho Chi Minh City,South
+C0803,Customer 803,Hue,East
+C0804,Customer 804,Buon Ma Thuot,West
+C0805,Customer 805,Nha Trang,Central
+C0806,Customer 806,Haiphong,North
+C0807,Customer 807,Vung Tau,South
+C0808,Customer 808,Da Nang,East
+C0809,Customer 809,Pleiku,West
+C0810,Customer 810,Tuy Hoa,Central
+C0811,Customer 811,Hanoi,North
+C0812,Customer 812,Can Tho,South
+C0813,Customer 813,Quang Ngai,East
+C0814,Customer 814,Da Lat,West
+C0815,Customer 815,Quy Nhon,Central
+C0816,Customer 816,Nam Dinh,North
+C0817,Customer 817,Ho Chi Minh City,South
+C0818,Customer 818,Hue,East
+C0819,Customer 819,Buon Ma Thuot,West
+C0820,Customer 820,Nha Trang,Central
+C0821,Customer 821,Haiphong,North
+C0822,Customer 822,Vung Tau,South
+C0823,Customer 823,Da Nang,East
+C0824,Customer 824,Pleiku,West
+C0825,Customer 825,Tuy Hoa,Central
+C0826,Customer 826,Hanoi,North
+C0827,Customer 827,Can Tho,South
+C0828,Customer 828,Quang Ngai,East
+C0829,Customer 829,Da Lat,West
+C0830,Customer 830,Quy Nhon,Central
+C0831,Customer 831,Nam Dinh,North
+C0832,Customer 832,Ho Chi Minh City,South
+C0833,Customer 833,Hue,East
+C0834,Customer 834,Buon Ma Thuot,West
+C0835,Customer 835,Nha Trang,Central
+C0836,Customer 836,Haiphong,North
+C0837,Customer 837,Vung Tau,South
+C0838,Customer 838,Da Nang,East
+C0839,Customer 839,Pleiku,West
+C0840,Customer 840,Tuy Hoa,Central
+C0841,Customer 841,Hanoi,North
+C0842,Customer 842,Can Tho,South
+C0843,Customer 843,Quang Ngai,East
+C0844,Customer 844,Da Lat,West
+C0845,Customer 845,Quy Nhon,Central
+C0846,Customer 846,Nam Dinh,North
+C0847,Customer 847,Ho Chi Minh City,South
+C0848,Customer 848,Hue,East
+C0849,Customer 849,Buon Ma Thuot,West
+C0850,Customer 850,Nha Trang,Central
+C0851,Customer 851,Haiphong,North
+C0852,Customer 852,Vung Tau,South
+C0853,Customer 853,Da Nang,East
+C0854,Customer 854,Pleiku,West
+C0855,Customer 855,Tuy Hoa,Central
+C0856,Customer 856,Hanoi,North
+C0857,Customer 857,Can Tho,South
+C0858,Customer 858,Quang Ngai,East
+C0859,Customer 859,Da Lat,West
+C0860,Customer 860,Quy Nhon,Central
+C0861,Customer 861,Nam Dinh,North
+C0862,Customer 862,Ho Chi Minh City,South
+C0863,Customer 863,Hue,East
+C0864,Customer 864,Buon Ma Thuot,West
+C0865,Customer 865,Nha Trang,Central
+C0866,Customer 866,Haiphong,North
+C0867,Customer 867,Vung Tau,South
+C0868,Customer 868,Da Nang,East
+C0869,Customer 869,Pleiku,West
+C0870,Customer 870,Tuy Hoa,Central
+C0871,Customer 871,Hanoi,North
+C0872,Customer 872,Can Tho,South
+C0873,Customer 873,Quang Ngai,East
+C0874,Customer 874,Da Lat,West
+C0875,Customer 875,Quy Nhon,Central
+C0876,Customer 876,Nam Dinh,North
+C0877,Customer 877,Ho Chi Minh City,South
+C0878,Customer 878,Hue,East
+C0879,Customer 879,Buon Ma Thuot,West
+C0880,Customer 880,Nha Trang,Central
+C0881,Customer 881,Haiphong,North
+C0882,Customer 882,Vung Tau,South
+C0883,Customer 883,Da Nang,East
+C0884,Customer 884,Pleiku,West
+C0885,Customer 885,Tuy Hoa,Central
+C0886,Customer 886,Hanoi,North
+C0887,Customer 887,Can Tho,South
+C0888,Customer 888,Quang Ngai,East
+C0889,Customer 889,Da Lat,West
+C0890,Customer 890,Quy Nhon,Central
+C0891,Customer 891,Nam Dinh,North
+C0892,Customer 892,Ho Chi Minh City,South
+C0893,Customer 893,Hue,East
+C0894,Customer 894,Buon Ma Thuot,West
+C0895,Customer 895,Nha Trang,Central
+C0896,Customer 896,Haiphong,North
+C0897,Customer 897,Vung Tau,South
+C0898,Customer 898,Da Nang,East
+C0899,Customer 899,Pleiku,West
+C0900,Customer 900,Tuy Hoa,Central
+C0901,Customer 901,Hanoi,North
+C0902,Customer 902,Can Tho,South
+C0903,Customer 903,Quang Ngai,East
+C0904,Customer 904,Da Lat,West
+C0905,Customer 905,Quy Nhon,Central
+C0906,Customer 906,Nam Dinh,North
+C0907,Customer 907,Ho Chi Minh City,South
+C0908,Customer 908,Hue,East
+C0909,Customer 909,Buon Ma Thuot,West
+C0910,Customer 910,Nha Trang,Central
+C0911,Customer 911,Haiphong,North
+C0912,Customer 912,Vung Tau,South
+C0913,Customer 913,Da Nang,East
+C0914,Customer 914,Pleiku,West
+C0915,Customer 915,Tuy Hoa,Central
+C0916,Customer 916,Hanoi,North
+C0917,Customer 917,Can Tho,South
+C0918,Customer 918,Quang Ngai,East
+C0919,Customer 919,Da Lat,West
+C0920,Customer 920,Quy Nhon,Central
+C0921,Customer 921,Nam Dinh,North
+C0922,Customer 922,Ho Chi Minh City,South
+C0923,Customer 923,Hue,East
+C0924,Customer 924,Buon Ma Thuot,West
+C0925,Customer 925,Nha Trang,Central
+C0926,Customer 926,Haiphong,North
+C0927,Customer 927,Vung Tau,South
+C0928,Customer 928,Da Nang,East
+C0929,Customer 929,Pleiku,West
+C0930,Customer 930,Tuy Hoa,Central
+C0931,Customer 931,Hanoi,North
+C0932,Customer 932,Can Tho,South
+C0933,Customer 933,Quang Ngai,East
+C0934,Customer 934,Da Lat,West
+C0935,Customer 935,Quy Nhon,Central
+C0936,Customer 936,Nam Dinh,North
+C0937,Customer 937,Ho Chi Minh City,South
+C0938,Customer 938,Hue,East
+C0939,Customer 939,Buon Ma Thuot,West
+C0940,Customer 940,Nha Trang,Central
+C0941,Customer 941,Haiphong,North
+C0942,Customer 942,Vung Tau,South
+C0943,Customer 943,Da Nang,East
+C0944,Customer 944,Pleiku,West
+C0945,Customer 945,Tuy Hoa,Central
+C0946,Customer 946,Hanoi,North
+C0947,Customer 947,Can Tho,South
+C0948,Customer 948,Quang Ngai,East
+C0949,Customer 949,Da Lat,West
+C0950,Customer 950,Quy Nhon,Central
+C0951,Customer 951,Nam Dinh,North
+C0952,Customer 952,Ho Chi Minh City,South
+C0953,Customer 953,Hue,East
+C0954,Customer 954,Buon Ma Thuot,West
+C0955,Customer 955,Nha Trang,Central
+C0956,Customer 956,Haiphong,North
+C0957,Customer 957,Vung Tau,South
+C0958,Customer 958,Da Nang,East
+C0959,Customer 959,Pleiku,West
+C0960,Customer 960,Tuy Hoa,Central
+C0961,Customer 961,Hanoi,North
+C0962,Customer 962,Can Tho,South
+C0963,Customer 963,Quang Ngai,East
+C0964,Customer 964,Da Lat,West
+C0965,Customer 965,Quy Nhon,Central
+C0966,Customer 966,Nam Dinh,North
+C0967,Customer 967,Ho Chi Minh City,South
+C0968,Customer 968,Hue,East
+C0969,Customer 969,Buon Ma Thuot,West
+C0970,Customer 970,Nha Trang,Central
+C0971,Customer 971,Haiphong,North
+C0972,Customer 972,Vung Tau,South
+C0973,Customer 973,Da Nang,East
+C0974,Customer 974,Pleiku,West
+C0975,Customer 975,Tuy Hoa,Central
+C0976,Customer 976,Hanoi,North
+C0977,Customer 977,Can Tho,South
+C0978,Customer 978,Quang Ngai,East
+C0979,Customer 979,Da Lat,West
+C0980,Customer 980,Quy Nhon,Central
+C0981,Customer 981,Nam Dinh,North
+C0982,Customer 982,Ho Chi Minh City,South
+C0983,Customer 983,Hue,East
+C0984,Customer 984,Buon Ma Thuot,West
+C0985,Customer 985,Nha Trang,Central
+C0986,Customer 986,Haiphong,North
+C0987,Customer 987,Vung Tau,South
+C0988,Customer 988,Da Nang,East
+C0989,Customer 989,Pleiku,West
+C0990,Customer 990,Tuy Hoa,Central
+C0991,Customer 991,Hanoi,North
+C0992,Customer 992,Can Tho,South
+C0993,Customer 993,Quang Ngai,East
+C0994,Customer 994,Da Lat,West
+C0995,Customer 995,Quy Nhon,Central
+C0996,Customer 996,Nam Dinh,North
+C0997,Customer 997,Ho Chi Minh City,South
+C0998,Customer 998,Hue,East
+C0999,Customer 999,Buon Ma Thuot,West
+C1000,Customer 1000,Nha Trang,Central
