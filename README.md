@@ -125,8 +125,7 @@ project-root/
 ├── docs/assignment/             # Đề bài, rubric, guideline
 ├── tests/                       # Kiểm thử
 ├── requirements.txt
-├── README.md
-└── README_VI.md
+└── README.md
 ```
 
 ## 9. Môi trường và cài đặt
