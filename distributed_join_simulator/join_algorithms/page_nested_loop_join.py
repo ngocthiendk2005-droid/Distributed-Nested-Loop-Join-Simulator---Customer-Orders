@@ -31,6 +31,12 @@ def simulate_page_nested_loop_join(
         key_transfer_packets = customer_blocks * 2
         blocks_transferred = customer_blocks * filtered_order_blocks
         packets_sent = key_transfer_packets + (blocks_transferred * 2)
+    # Mô phỏng trường hợp node B bị lỗi (không phản hồi)
+    elif mode == "node_b_failed":
+        print("\n[NETWORK ALERT] Site A is initiating distributed join...")
+        print("[NETWORK ALERT] Sending initial packet to Site B (Remote Node)...")
+        print("[CRITICAL ERROR] Connection Timeout! Site B is down or unreachable.")
+        raise ConnectionError("Distributed Query Aborted: Remote Node failed to respond.")
     else:
         raise ValueError("mode must be 'standard' or 'semi_join'")
 
